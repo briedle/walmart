@@ -24,4 +24,6 @@ async function fetchIngredientData(ingredient) {
     }
   }
   
-console.log('Hello, ME!')
+console.log('Hello, ME!');
+
+console.log('cheese is good');
