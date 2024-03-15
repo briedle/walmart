@@ -24,3 +24,4 @@ async function fetchIngredientData(ingredient) {
     }
   }
   
+console.log('Hello, ME!')
